@@ -12,7 +12,7 @@ BUILDFILE      = 'https://raw.githubusercontent.com/asianboi7777/testgi/main/aut
 # 0 being every startup of kodi
 UPDATECHECK    = 0
 # Text File with apk info in it.  Leave as 'http://' to ignore
-APKFILE        = 'https://raw.githubusercontent.com/asianboi7777/testgi/main/apk'
+APKFILE        = 'https://raw.githubusercontent.com/asianboi7777/testgi/main/apk2
 # Text File with Youtube Videos urls.  Leave as 'http://' to ignore
 YOUTUBETITLE   = ''
 YOUTUBEFILE    = 'http://'
