@@ -15,7 +15,7 @@ adult="no"
 description="Standard Build 18.7"
 
 name="Kodi Custom Build"
-version="0.0.2"
+version="0.0.3"
 url="https://od.lk/d/NDRfMjEyNjMwMjBf/bbcustom.zip"
 gui="http://"
 kodi="18.7"
